@@ -4,7 +4,7 @@
 
 - Selvin Estuardo Alvarz Juárez — Líder
 - William Salvador Ramirez Lacán — Documentación
-- Byron Fred Emmanuel Saquic Ixcol — Documentación
+- Byron Fredy Emmanuel Saquic Ixcol — Documentación
 - Yaxchel Saqkan Xol Par — Herramientas
 - Hab´il Anayte´ Xol Par — Comunicación
 - Hefer Andrés Cotuc Sunú — Herramientas
@@ -13,7 +13,7 @@
 
 ## Proyecto
 
-**404: SURVIVAL**
+**404: SURVIVAL **
 
 ### Descripción
 
