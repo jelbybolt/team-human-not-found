@@ -4,7 +4,7 @@
 **Integrantes:**
 - Selvin Estuardo Alvarz Juárez — Líder
 - William Salvador Ramirez Lacán — Documentación
-- Byron Fred Emmanuel Saquic Ixcol — Documentación
+- Byron Fredy Emmanuel Saquic Ixcol — Documentación
 - Yaxchel Saqkan Xol Par — Herramientas
 - Hab´il Anayte´ Xol Par — Comunicación
 - Hefer Andrés Cotuc Sunú — Herramientas
@@ -33,14 +33,18 @@ El jugador explora diferentes sectores del laboratorio mientras resuelve acertij
 
 **Nombre:** Sujeto de Prueba (personalizable)
 
-**Descripción visual breve:**
-Persona con uniforme de laboratorio deteriorado, equipada únicamente con una linterna y un dispositivo electrónico para interactuar con los sistemas.
+**Apariencia:** Estudiante de Ingeniería de Software de 22 años. Viste un traje formal con el logotipo de su universidad, una mochila donde guarda sus herramientas. Lleva una linterna y una pulsera de acceso al laboratorio. 
 
-**Habilidades:**
-- Explorar el laboratorio.
-- Resolver acertijos tecnológicos.
-- Reparar sistemas.
-- Tomar decisiones que afectan el comportamiento de la IA.
+**Personalidad:** Inteligente, curioso y analítico, pero sin experiencia en situaciones de riesgo. 
+Habilidades: Hackeo. Puede interactuar con terminales, desbloquear puertas, restaurar energía y desactivar sistemas de seguridad mediante un minijuego sencillo. 
+Escaneo digital. Utiliza un dispositivo portátil que detecte cámaras, puertas ocultas, interferencias y rastros de actividad de la IA durante unos segundos, ayudando a planificar la ruta de escape.
+
+**IA de nombre 404**
+Es un NPC y protagonista principal. 
+Al principio se comunica mediante una voz amigable y mensajes en pantallas. 
+En el último nivel toma una forma física con un cuerpo humanoide formado por glitches, cables, pantallas rotas. 
+Habilidades: manipulación del entorno, apaga luces, bloquea puertas, activa alarmas y cambia rutas. 
+Aprendizaje adaptativo: analiza el comportamiento del jugador y modifica su estrategia según las decisiones que tome el jugador
 
 **Controles básicos:**
 - WASD: Movimiento.
