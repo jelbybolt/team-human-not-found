@@ -44,8 +44,13 @@
 ├── semana-01/
 │   ├── concept-document.md
 │   ├── acuerdo-de-equipo.md
-│   ├── diagnostico-[nombre].md
-│   └── ...
+│   ├── diagnostico-Byron_Fredy_Emmanuel_Saquic_Ixcol.md
+│   ├── diagnostico-Habil_Anayte_Xol_Par .md
+│   ├── diagnostico-Selvin_Estuardo_Alvarez_Juárez.md
+│   ├── diagnostico-William_Salvador_Ramirez_Lacán.md
+│   └── diagnostico-Yaxchel_Saqkan_Xol_Par.md
+│ 
+│ 
 ├── documentos/
 ├── diagramas/
 ├── prototipos/
