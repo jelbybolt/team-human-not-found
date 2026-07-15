@@ -1,4 +1,4 @@
- #  semana-01
+ #  Semana-01
 # Diagnostico IS1  —  William Salvador Ramirez Lacán 
 Fecha: 13/07/2026  |  Equipo:  NOT FOUND HUMAN
 
