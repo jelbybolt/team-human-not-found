@@ -1,4 +1,4 @@
- Diagnostico IS — Selvin Estuardo Alvarez Juárez
+# Diagnostico IS — Selvin Estuardo Alvarez Juárez
 Fecha:09/07/2026
 1. Mis 3 fortalezas segun la IA
 1: Tengo una buena compresión sobre los temas de la ingeniería de software.
