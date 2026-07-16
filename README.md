@@ -7,7 +7,6 @@
 - Byron Fredy Emmanuel Saquic Ixcol — Documentación
 - Yaxchel Saqkan Xol Par — Herramientas
 - Hab´il Anayte´ Xol Par — Comunicación
-- Hefer Andrés Cotuc Sunú — Herramientas
 
 ---
 
