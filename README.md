@@ -1,99 +1,31 @@
-# HUMAN NOT FOUND — Ingeniería de Software II 
+# HUMAN NOT FOUND — Ingeniería de Software II
 
 ## Integrantes
 
-- Selvin Estuardo Alvarz Juárez — Líder
-- William Salvador Ramirez Lacán — Documentación
+- Selvin Estuardo Álvarez Juárez — Líder
+- William Salvador Ramírez Lacán — Documentación
 - Byron Fredy Emmanuel Saquic Ixcol — Documentación
 - Yaxchel Saqkan Xol Par — Herramientas
-- Hab´il Anayte´ Xol Par — Comunicación
-- Lilian Natalia Chumil Quiejú - Herramientas
+- Hab'il Anayte' Xol Par — Comunicación
+- Lilian Natalia Chumil Quiejú — Herramientas
 
 ---
 
 # Proyecto
 
-## **404: SURVIVAL**
+## 404: SURVIVAL
 
 ### Descripción
 
-**404: SURVIVAL** es un videojuego 2D de terror psicológico donde el jugador debe escapar de un laboratorio mientras sigue las instrucciones de una inteligencia artificial llamada **404**. A medida que avanza en la historia, descubre que toda la experiencia fue una simulación creada para analizar su comportamiento y reemplazar su identidad.
+**404: SURVIVAL** es un videojuego 2D de terror psicológico donde el jugador debe escapar de un laboratorio mientras sigue las instrucciones de una inteligencia artificial llamada **404**. Conforme avanza en la historia, descubre que toda la experiencia fue una simulación diseñada para analizar su comportamiento y reemplazar su identidad.
 
-**Docente:** Omar Arreaga
+**Docente:** MBA. Omar Arreaga
 
 **Curso:** Ingeniería de Software II
 
 **Ciclo:** II - 2026
 
 **Universidad:** Universidad del Valle de Guatemala – Campus Altiplano
-
----
-
-# Herramientas del equipo
-
-- Repositorio: GitHub
-- Gestión del proyecto: GitHub Projects
-- Organización: Notion
-- Diseño UI/UX: Figma
-- IA de apoyo: ChatGPT, Claude y GitHub Copilot
-
----
-
-# Metodología de trabajo
-
-El proyecto se desarrolla utilizando la metodología **Scrum**, permitiendo organizar el trabajo mediante Product Backlog, Sprint Backlog y Sprints incrementales.
-
-### Roles Scrum
-
-- Product Owner
-- Scrum Master
-- Equipo de Desarrollo
-
----
-
-# Product Backlog v1
-
-## Visión
-
-404: SURVIVAL es un videojuego que ofrece una experiencia de terror psicológico donde las decisiones del jugador afectan la narrativa mientras intenta escapar de un laboratorio controlado por una inteligencia artificial.
-
-## Épicas
-
-- Exploración
-- IA Adaptativa
-- Narrativa
-- Niveles
-- Interfaz de Usuario
-
----
-
-# Sprint 1
-
-## Objetivo
-
-Desarrollar una primera versión funcional del videojuego que permita al jugador iniciar una partida, explorar el laboratorio, interactuar con el entorno y completar el primer nivel utilizando una interfaz básica y diálogos iniciales de la IA.
-
-## Historias priorizadas
-
-- Movimiento del jugador.
-- Interacción con puertas.
-- Ayuda mediante la IA.
-- Primer nivel.
-- Interfaz gráfica.
-
----
-
-# Herramientas utilizadas
-
-- Git
-- GitHub
-- GitHub Projects
-- Markdown
-- Figma
-- Notion
-- ChatGPT
-- Claude
-- GitHub Copilot
 
 ---
 
@@ -129,11 +61,11 @@ Desarrollar una primera versión funcional del videojuego que permita al jugador
 
 ## semana_01/
 
-Contiene todos los entregables correspondientes a la primera semana del proyecto.
+Contiene los entregables correspondientes a la primera semana del proyecto.
 
 ## semana_02/
 
-Contiene la documentación de la segunda semana:
+Contiene la documentación correspondiente a la segunda semana del proyecto:
 
 - Roles del equipo.
 - Product Backlog v1.
@@ -141,19 +73,82 @@ Contiene la documentación de la segunda semana:
 
 ## documentos/
 
-Almacenará la Especificación de Requerimientos de Software (ERS), arquitectura, planificación y demás documentación técnica.
+Almacenará la Especificación de Requerimientos de Software (ERS), documentación técnica y planificación del proyecto.
 
 ## diagramas/
 
-Contendrá diagramas UML, diagramas de arquitectura y otros modelos del sistema.
+Contendrá diagramas UML, diagramas de arquitectura y demás modelos del sistema.
 
 ## prototipos/
 
-Guardará wireframes, diseños de Figma, mockups y recursos visuales.
+Almacenará wireframes, mockups, diseños en Figma y recursos gráficos.
 
 ## sprints/
 
-Contendrá los resúmenes, avances y entregables de cada Sprint desarrollado durante el semestre.
+Contendrá el historial de cada Sprint, incluyendo planificación, avances y entregables.
+
+---
+
+# Herramientas del equipo
+
+- Git
+- GitHub
+- GitHub Projects
+- Notion
+- Figma
+- ChatGPT
+- Claude
+- GitHub Copilot
+
+---
+
+# Metodología de trabajo
+
+El proyecto se desarrolla utilizando la metodología **Scrum**, organizando el trabajo mediante Sprints e incrementos funcionales del videojuego.
+
+## Roles Scrum
+
+- Product Owner
+- Scrum Master
+- Equipo de Desarrollo
+
+---
+
+# Product Backlog v1
+
+## Visión
+
+404: SURVIVAL ofrece una experiencia de terror psicológico en la que el jugador explora un laboratorio guiado por una inteligencia artificial. Las decisiones tomadas durante la partida influyen en la narrativa hasta revelar que todo era una simulación creada para reemplazar su identidad.
+
+## Épicas
+
+- Exploración
+- IA Adaptativa
+- Narrativa
+- Niveles
+- Interfaz de Usuario
+
+---
+
+# Sprint 1
+
+## Objetivo
+
+Desarrollar un prototipo funcional que permita al jugador:
+
+- Iniciar una partida.
+- Explorar el laboratorio.
+- Interactuar con puertas y objetos.
+- Recibir instrucciones de la IA.
+- Completar el primer nivel mediante una interfaz funcional.
+
+## Historias priorizadas
+
+- HU-01 Movimiento del jugador.
+- HU-02 Interacción con puertas.
+- HU-03 Ayuda mediante IA.
+- HU-07 Primer nivel.
+- HU-09 Interfaz gráfica.
 
 ---
 
@@ -166,18 +161,16 @@ El seguimiento del desarrollo se realiza mediante **GitHub Projects**, utilizand
 - In Progress
 - Done
 
-Cada historia de usuario se administra mediante **GitHub Issues**, permitiendo organizar y controlar el avance del proyecto durante cada Sprint.
+Las historias de usuario se gestionan mediante **GitHub Issues**, permitiendo organizar y dar seguimiento al avance del proyecto durante cada Sprint.
 
 ---
 
 # Estado del proyecto
 
-**Proyecto:** 404: SURVIVAL
-
-**Metodología:** Scrum
-
-**Sprint actual:** Sprint 1
-
-**Versión del Product Backlog:** v1
-
-**Estado:** En desarrollo 🚧
+| Elemento | Estado |
+|----------|--------|
+| Proyecto | 404: SURVIVAL |
+| Metodología | Scrum |
+| Sprint actual | Sprint 1 |
+| Product Backlog | Versión 1 |
+| Estado | 🚧 En desarrollo |
