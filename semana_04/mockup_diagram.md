@@ -54,6 +54,6 @@ Esto permite continuar la partida más tarde sin perder avances.
 
 ## Diseño completo en Figma
 
-Puedes visualizar y editar el prototipo completo en el siguiente enlace:
+Puedes visualizar prototipo completo en el siguiente enlace:
 
 [Mockup en Figma - Explorar Laboratorio](https://www.figma.com/design/5hT5YUaTXLZCqfSCVeTTt4/MOCKUP-CASO-DE-USO-EXPLORAR-LABORATORIO?node-id=0-1&p=f&t=5hU8bGCAnLwlOyP2-0)
