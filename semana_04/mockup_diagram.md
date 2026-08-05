@@ -10,7 +10,7 @@
 El escenario está representado mediante un **tile-map en 2D** con vista superior (top-down).  
 El jugador puede moverse libremente en **cuatro direcciones**: arriba, abajo, izquierda y derecha.
 
-![Mapa del laboratorio](img/image2.png)
+![Mapa del laboratorio](img/image2.jpg)
 
 > *El jugador explora el laboratorio, abre puertas y accede a nuevas zonas.*
 
@@ -21,7 +21,7 @@ El jugador puede moverse libremente en **cuatro direcciones**: arriba, abajo, iz
 El personaje puede **abrir puertas** para avanzar entre áreas.  
 La **IA 404** detecta cuando el jugador necesita orientación y proporciona **instrucciones contextuales** para guiarlo.
 
-![Interacción con puertas y asistencia de IA](img/image3.png)
+![Interacción con puertas y asistencia de IA](img/image3.jpg)
 
 > *La IA aparece cuando el jugador parece perdido o requiere ayuda.*
 
@@ -35,7 +35,7 @@ El jugador tiene la opción de:
 - **Esquivar** la amenaza.
 - Buscar una **ruta alternativa** para continuar.
 
-![Detección de amenazas](img/image4.png)
+![Detección de amenazas](img/image4.jpg)
 
 > *El sistema alerta al jugador sobre peligros cercanos.*
 
@@ -46,7 +46,7 @@ El jugador tiene la opción de:
 El jugador puede guardar su progreso en cualquier momento mediante un **menú desplegable o botón de guardado**.  
 Esto permite continuar la partida más tarde sin perder avances.
 
-![Guardado de progreso](img/image5.png)
+![Guardado de progreso](img/image5.jpg)
 
 > *Menú de guardado accesible desde la interfaz principal.*
 
