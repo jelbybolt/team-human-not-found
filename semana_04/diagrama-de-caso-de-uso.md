@@ -8,7 +8,7 @@
 
 ## Diagrama
 
-
+![Daigrama de caso de uso](img/diagrama.png)
 
 ### Actores
 
