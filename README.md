@@ -79,9 +79,10 @@ team-human-not-found/
 
 | Documento | Descripción | Semana |
 | :--- | :--- | :--- |
-| **[fase-analisis-completa.docx](./documentos/fase-analisis-completa-v1.0.docx)** | Análisis completo con ERS, casos de uso y modelos de comportamiento | Semana 05 |
-| **[fase-diseno-parte1.pdf](./documentos/fase-diseno-parte1-v1.0.pdf)** | Diagramas de casos de uso, actividades y secuencia | Semana 05 |
-| **[fase-diseno-parte2.pdf](./documentos/fase-diseno-parte2-v1.0.pdf)** | Diagramas de componentes, estados y arquitectura | Semana 06 |
+| **[ERS-404-Survival-v1.0.pdf](./documentos/ERS-404-Survival-v1.0.pdf)** | Análisis de requerimientos | Semana 03 |
+| **[fase-analisis-completa.pdf](./documentos/fase-analisis-completa.pdf)** | Análisis completo con ERS, casos de uso y modelos de comportamiento | Semana 05 |
+| **[fase-diseno-parte1.pdf](./documentos/fase-diseno-parte1.pdf)** | Diagramas de casos de uso, actividades y secuencia | Semana 05 |
+| **[fase-diseno-parte2.pdf](./documentos/fase-diseno-parte2.pdf)** | Diagramas de componentes, estados y arquitectura | Semana 06 |
 
 ---
 
