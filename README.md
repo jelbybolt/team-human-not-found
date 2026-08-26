@@ -24,19 +24,6 @@
 
 ---
 
-## Tabla de Contenidos
-
-1. [Roles del Equipo](#-roles-del-equipo)
-2. [Estructura del Repositorio](#-estructura-del-repositorio)
-3. [Documentos Maestros](#-documentos-maestros)
-4. [Entregables por Semana](#-entregables-por-semana)
-5. [Product Backlog](#-product-backlog)
-6. [Sprints](#-sprints)
-7. [Herramientas del Equipo](#-herramientas-del-equipo)
-8. [Estado del Proyecto](#-estado-del-proyecto)
-
----
-
 ## Roles del Equipo
 
 | Rol | Integrante |
@@ -79,10 +66,10 @@ team-human-not-found/
 
 | Documento | Descripción | Semana |
 | :--- | :--- | :--- |
-| **[ERS-404-Survival-v1.0.pdf](./documentos/ERS-404-Survival-v1.0.pdf)** | Análisis de requerimientos | Semana 03 |
-| **[fase-analisis-completa.pdf](./documentos/fase-analisis-completa.pdf)** | Análisis completo con ERS, casos de uso y modelos de comportamiento | Semana 05 |
-| **[fase-diseno-parte1.pdf](./documentos/fase-diseno-parte1.pdf)** | Diagramas de casos de uso, actividades y secuencia | Semana 05 |
-| **[fase-diseno-parte2.pdf](./documentos/fase-diseno-parte2.pdf)** | Diagramas de componentes, estados y arquitectura | Semana 06 |
+| **[ERS-404-Survival-v1.0.pdf](./Documentos/ERS-404-Survival-v1.0.pdf)** | Análisis de requerimientos | Semana 03 |
+| **[fase-analisis-completa.pdf](./Documentos/fase-analisis-completa.pdf)** | Análisis completo con ERS, casos de uso y modelos de comportamiento | Semana 05 |
+| **[fase-diseno-parte1.pdf](./Documentos/fase-diseno-parte1.pdf)** | Diagramas de casos de uso, actividades y secuencia | Semana 05 |
+| **[fase-diseno-parte2.pdf](./Documentos/fase-diseno-parte2.pdf)** | Diagramas de componentes, estados y arquitectura | Semana 06 |
 
 ---
 
