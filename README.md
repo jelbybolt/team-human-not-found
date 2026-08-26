@@ -178,12 +178,12 @@ team-human-not-found/
 
 ---
 
-## 📌 Enlaces Rápidos
+## Enlaces Rápidos
 
 - [Repositorio en GitHub](https://github.com/jelbybolt/team-human-not-found)
 - [Issues y Tareas](https://github.com/jelbybolt/team-human-not-found/issues)
 - [Proyectos (Kanban)](https://github.com/jelbybolt/team-human-not-found/projects)
-- [Versión anterior del README](./README-v1.0-antiguo.md)
+- [Versión anterior del README](./README-histórico.md)
 
 ---
 
