@@ -1,4 +1,4 @@
-# Semana 06 - Fase de Diseño (Parte 2)
+# Semana 07 - Fase de Diseño (Parte 2)
 
 ## Resumen
 Continuación de la fase de diseño, enfocada en la arquitectura del sistema y diagramas de comportamiento más detallados.
